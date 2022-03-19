@@ -339,6 +339,11 @@
     "@progress/kendo-react-common" "5.1.0"
     "prop-types" "^15.6.0"
 
+"@progress/kendo-theme-default@^5.2.0":
+  "integrity" "sha512-k9VB/krxSeFRFuxk4i551oJajIv/dDGCjO4tm5Y6qXtbP06E+50zY+qbAxM6361jAYwkwY/yMqzhWRximtynAw=="
+  "resolved" "https://registry.npmjs.org/@progress/kendo-theme-default/-/kendo-theme-default-5.2.0.tgz"
+  "version" "5.2.0"
+
 "@rollup/pluginutils@^4.1.2":
   "integrity" "sha512-2WUyJNRkyH5p487pGnn4tWAsxhEFKN/pT8CMgHshd5H+IXkOnKvKZwsz5ZWz+YCXkleZRAU5kwbfgF8CPfDRqA=="
   "resolved" "https://registry.npmjs.org/@rollup/pluginutils/-/pluginutils-4.2.0.tgz"
@@ -684,7 +689,7 @@
     "object-assign" "^4.1.1"
     "react-is" "^16.13.1"
 
-"react-dom@^16.8.2 || ^17.0.0", "react-dom@^17.0.2", "react-dom@>=16.6.0":
+"react-dom@^16.8.2 || ^17.0.0", "react-dom@^17.0.2", "react-dom@>=16.6.0", "react-dom@>=16.8":
   "integrity" "sha512-s4h96KtLDUQlsENhMn1ar8t2bEa+q/YAtj8pPPdIjPDGBDIVNsrD9aXNWqspUe6AzKCIG0C1HZZLqLV7qpOBGA=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-17.0.2.tgz"
   "version" "17.0.2"
@@ -713,7 +718,7 @@
     "loose-envify" "^1.4.0"
     "prop-types" "^15.6.2"
 
-"react@^16.8.2 || ^17.0.0", "react@^17.0.2", "react@>=16.6.0", "react@17.0.2":
+"react@^16.8.2 || ^17.0.0", "react@^17.0.2", "react@>=16.6.0", "react@>=16.8", "react@17.0.2":
   "integrity" "sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA=="
   "resolved" "https://registry.npmjs.org/react/-/react-17.0.2.tgz"
   "version" "17.0.2"
@@ -796,6 +801,11 @@
   "integrity" "sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg=="
   "resolved" "https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz"
   "version" "1.14.1"
+
+"use-breakpoint@^3.0.1":
+  "integrity" "sha512-gQ3zg55Aa/AAicxJSsKBSs5B4pcQv8PNMaJXS+P7TzvWJ6QLY7Napa2erkA6gZDmFFdkjWsztyOax5a5nuoLGQ=="
+  "resolved" "https://registry.npmjs.org/use-breakpoint/-/use-breakpoint-3.0.1.tgz"
+  "version" "3.0.1"
 
 "vite@^2.8.0":
   "integrity" "sha512-e4H0QpludOVKkmOsRyqQ7LTcMUDF3mcgyNU4lmi0B5JUbe0ZxeBBl8VoZ8Y6Rfn9eFKYtdXNPcYK97ZwH+K2ug=="

@@ -12,8 +12,10 @@
     "@progress/kendo-react-intl": "^5.1.0",
     "@progress/kendo-react-layout": "^5.1.0",
     "@progress/kendo-react-progressbars": "^5.1.0",
+    "@progress/kendo-theme-default": "^5.2.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "use-breakpoint": "^3.0.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",

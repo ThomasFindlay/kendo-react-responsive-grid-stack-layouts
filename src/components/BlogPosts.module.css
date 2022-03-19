@@ -1,0 +1,13 @@
+.postCard {
+  padding: 1rem;
+  border: 1px solid #e4e4e7;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.postHeading {
+  margin-top: 0;
+}
+
+.postBody {
+}
