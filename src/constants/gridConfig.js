@@ -12,7 +12,7 @@ export const GRID_CONFIG = {
         },
       ],
     },
-    postsContainer: {
+    mainContainer: {
       row: 2,
       col: 1,
     },
@@ -20,7 +20,7 @@ export const GRID_CONFIG = {
       row: 1,
       col: 1,
     },
-    posts: {
+    postsContainer: {
       cols: [
         {
           width: "1fr",
@@ -45,7 +45,7 @@ export const GRID_CONFIG = {
         },
       ],
     },
-    postsContainer: {
+    mainContainer: {
       row: 2,
       col: 1,
     },
@@ -53,7 +53,7 @@ export const GRID_CONFIG = {
       row: 1,
       col: 1,
     },
-    posts: {
+    postsContainer: {
       cols: [
         {
           width: "1fr 1fr",
@@ -77,7 +77,7 @@ export const GRID_CONFIG = {
       ],
       rows: [],
     },
-    postsContainer: {
+    mainContainer: {
       row: 1,
       col: 1,
     },
@@ -85,7 +85,7 @@ export const GRID_CONFIG = {
       row: 1,
       col: 2,
     },
-    posts: {
+    postsContainer: {
       cols: [
         {
           width: "repeat(3, 1fr)",
